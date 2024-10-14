@@ -1,0 +1,19 @@
+{
+    "modules":[
+       {
+          "name":"Partners"
+       },
+       {
+          "name":"Customer"
+       },
+       {
+          "name":"Shippings"
+       },
+       {
+          "name":"Resources"
+       },
+       {
+          "name":"Drugs"
+       }
+    ]
+ }

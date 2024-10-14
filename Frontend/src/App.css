@@ -1,0 +1,62 @@
+.pogo-select .css-13cymwt-control, .pogo-select .css-13cymwt-control:hover, .pogo-select .css-t3ipsp-control {
+    min-height: 33px !important;
+    height: 33px !important;
+    background-color: #F1F1F3;
+    border: 1px solid #F1F1F3;
+    border-color: #F1F1F3 !important;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+}
+
+.pogo-select .css-1jqq78o-placeholder, .pogo-select .css-1dimb5e-singleValue {
+    margin-top: -5px !important;
+}
+
+.pogo-select .css-1u9des2-indicatorSeparator{
+    display: none !important;
+}
+
+.pogo-select .css-1xc3v61-indicatorContainer{
+    padding-top: 6px !important;
+}
+
+.copay_input_order, .copay_input_order:focus, .copay_input_order:focus-visible{
+    border: 0px !important;
+    outline: 0px !important;
+    box-shadow: none !important;
+}
+
+.copay_input_order:focus-visible{
+    border: 1px solid #86a4c3 !important;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.copay_input_order::-webkit-outer-spin-button,
+.copay_input_order::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.copay_input_order[type=number] {
+  -moz-appearance: textfield;
+}
+
+.react-tel-input .flag-dropdown {
+ display: none;
+}
+
+.react-tel-input input{
+    padding-left: 10px !important;
+    background: #F1F1F3 !important;
+    border: 1px solid #F1F1F3 !important;
+    width: 100% !important;
+}
+
+.react-tel-input input:focus-visible{
+    border: 1px solid #1dbfc1 !important;
+}
+.react-datepicker-wrapper{
+    width: 100% !important;
+}

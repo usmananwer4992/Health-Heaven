@@ -1,0 +1,10 @@
+.input-field {
+    border: 1px solid purple;
+    color: #9e9bd0;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: 35px;
+}
+.input-field:focus {
+    box-shadow: none;
+}
